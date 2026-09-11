@@ -1,0 +1,55 @@
+file_name,true_label,predict,wer,cer,is_repetition_hallucination,max_repetition_run,repetition_token,has_unwanted_vajtswv_or_chua
+152.wav,kuv tseem tsis tau xws cov huab cua,kuj tseem tsis tau xwm cob huab cuag qw pom,0.75,0.3142857142857143,False,1,kuj,False
+287.wav,nyob ze nov tsis deb ntawm no,nyob ze no tshis deb ntws no amoos,0.5714285714285714,0.3448275862068966,False,1,nyob,False
+147.wav,nrhiav hauv phau ntawv xov tooj daj,nrhia hau phau ntawm xo tooj daj,0.5714285714285714,0.11428571428571428,False,1,nrhia,False
+341.wav,tiav lawm kuv twb ua tiav ntev lawm,kuv twb ua tiag nteg lawm,0.5,0.34285714285714286,False,1,kuv,False
+235.wav,kuv xav tias lawv yuav mus ntev ntev nws hais rau tus hauj sam,kuxa tias lawm yuav mus tseg ntev nws hais rau haujlwm saib,0.5,0.25806451612903225,False,1,kuxa,False
+107.wav,nyob puas tom ntawm sab laus,nyob puag tos ntawm sab lauj,0.5,0.10714285714285714,False,1,nyob,False
+240.wav,rau lub sijhawm ntawd nws tsis tau tshwm sim,rau lub sijhawm ntawd nws tsiv tau tshwj yim dim,0.4444444444444444,0.13636363636363635,False,1,rau,False
+59.wav,chua ntia lub ntim ntawm kuv tes,chua ntia lub ntim ntawm kub te qais,0.42857142857142855,0.15625,False,1,chua,False
+180.wav,thov txim ntshai kuv yuav tsis nyiam cov zaub no,thov txhim ntshai kuv yuag tsis nyiam co zaub no li,0.4,0.125,False,1,thov,False
+238.wav,lub sijhawm kuv tau ntsib tus txiv neej laus ntawd,yob sib hawm kuj tau ntsib tus txiv neej laus ntawd,0.4,0.1,False,1,yob,False
+127.wav,puas muaj tsev muag tshuaj nyob qhov twg,puas muaj tseg muas tshuaj nyob qhov twg muag,0.375,0.175,False,1,puas,False
+154.wav,kuv nyob hauv no tau rau hlis lawm,ku nyob hau no tau rau hliv lawm,0.375,0.08823529411764706,False,1,ku,False
+134.wav,kuv muab cia rau ntawm no,ku muab cia rau ntawm no qaules,0.3333333333333333,0.32,False,1,ku,False
+108.wav,nyob puas tom ntawm sab xis,nyob puas tod ntawm sab xis thiab,0.3333333333333333,0.25925925925925924,False,1,nyob,False
+239.wav,nws zoo nkauj txhua lub sijhawm,nws zoo nkauj txhua lub sijhawm rov los,0.3333333333333333,0.25806451612903225,False,1,nws,False
+286.wav,nyob deb ntawm no plaub caug feeb mus taw,nyob deb ntawm no lawb caug faib mus taw qhia,0.3333333333333333,0.21951219512195122,False,1,nyob,False
+143.wav,koj lub npe hauv phau ntawv xov tooj yog sau li cas,koj lub npe hau phau ntawv xob tooj yog li cas yis,0.3333333333333333,0.19607843137254902,False,1,koj,False
+276.wav,nws tsis txaus siab rau tej yam dab tsi,nws tsis txaus siab rau tej uas yam dabtsi,0.3333333333333333,0.1282051282051282,False,1,nws,False
+157.wav,kuv muaj nees nkaum ib xyoo,kuj muaj nees nkaus ib xyoo,0.3333333333333333,0.07407407407407407,False,1,kuj,False
+198.wav,koj puas xav tau kev daws teeb meem lossis lub tswv yim zoo,koj puas xa tau kev daw teeb mees lossis lub tshwj yim zoo,0.3076923076923077,0.0847457627118644,False,1,koj,False
+133.wav,kuv muab cia rau saum lub txee hauv tsev mov,kuv muab cia rau saum lub txee hauv tsev hmo qais li,0.3,0.20454545454545456,False,1,kuv,False
+257.wav,yog li tus tub thiaj poob siab nws txiav txim siab tias nws yuav tsis ntseeg txog kev npau suav,yog li tus tub thiaj poob siab nws txiaj txim siab tiag nws yuav tsis ntseeg txojkev npau suab li,0.3,0.08421052631578947,False,1,yog,False
+211.wav,tus tub hluas nco txog tus txiv neej laus uas nws tau hais dab tsi txog qhov khoom muaj nqis,tus tub hluas nyo txog tus txivneej laus uas nws tau hais dabtsi txog qhov khoom muaj nqis li,0.3,0.06521739130434782,False,1,tus,False
+237.wav,tsis muaj lub lis ywj vim li cas koj yuav tsum,tshis muaj lub li ywj vim li cawv koj yuav tsum,0.2727272727272727,0.08695652173913043,False,1,tshis,False
+153.wav,koj nyob hauv nyab laj teb no tau hov ntev lawm,koj nyob hau nyab laj teb no tau ho ntej lawm,0.2727272727272727,0.06382978723404255,False,1,koj,False
+219.wav,vim tias koj paub nws txoj kev npau suav thiab xav tau thiab yuav paub daws lawv li cas,vim tias koj paub nws txojkev npau suab thiab xav tau thiab yuav paub daws lawv li cas tej nws,0.2631578947368421,0.11494252873563218,False,1,vim,False
+194.wav,kuv tuaj yeem ua haujlwm rau hnub no,kuv tuaj yees ua haujlwm rau hnub no axaxees,0.25,0.25,False,1,kuv,False
+336.wav,nws tuaj ntawm no ib leeg puas yog,nws tuag ntawm no ib leeg puas yog axas,0.25,0.17647058823529413,False,1,nws,False
+140.wav,kuv yuav muab qhov nov cia qhov twg,kuv yuav muab qhov no cia qhov dhwg,0.25,0.08571428571428572,False,1,kuv,False
+158.wav,kuv yuav luag muaj nees nkaum ib xyoo,kuv yuag luag muaj nees nkaum ib xyoos,0.25,0.05405405405405406,False,1,kuv,False
+106.wav,thov txim tsev tawm rooj nyob qhov twg,thov txhim tseg tawm rooj nyob qhov twg,0.25,0.05263157894736842,False,1,thov,False
+193.wav,yuav ua li cas koj thiaj muaj kev zoo siab tom qab ntawd,yog ua li cas koj thiaj muaj ke zoo siab tos qab ntawd,0.23076923076923078,0.08928571428571429,False,1,yog,False
+124.wav,thov txim kuv xav yuav me tsis txhuv muaj nyob qhov twg ne,thov txim kuv xav yuav mentsis txhu muaj nyob qhov twg ne,0.23076923076923078,0.034482758620689655,False,1,thov,False
+111.wav,kuv mam taw rau koj tias nyob qhov twg,kuv mam tw rau koj tias nyob qhov thiab,0.2222222222222222,0.13157894736842105,False,1,kuv,False
+339.wav,nws tau muab khoom saib dab muag rau kuv,nws tau muab khoom saib dab muas rau kuv qab,0.2222222222222222,0.125,False,1,nws,False
+125.wav,puas muaj chaw muag zaub mov nyob qhov twg,puas muaj chaw muag zaub mom nyob qhov twg noj,0.2222222222222222,0.11904761904761904,False,1,puas,False
+114.wav,nyob tom no lub qhov rooj ob ntawm sab xis,nyob tos no lub qhov rooj ob ntawm sab xis tse,0.2,0.11904761904761904,False,1,nyob,False
+282.wav,nws hais lus nyab laj tau zoo npaum li cas,nws hais lus nyab laj tau zoo npaus li li cas,0.2,0.09523809523809523,False,2,li,False
+156.wav,koj muaj tsawg xyoo lawm,koj muaj tshaw xyoo lawm,0.2,0.08333333333333333,False,1,koj,False
+216.wav,nws tsis tas yuav qhia nws tus neeg rau txhua tus,nws tsis tas yuav qhia nws tus neeg rooj txhua tus nyob,0.18181818181818182,0.16326530612244897,False,1,nws,False
+135.wav,kuv tsis nco xyov kuv muab cia rau qhov twg lawm,kuj tsis nco xyo kuv muab cia rau qhov twg lawm,0.18181818181818182,0.041666666666666664,False,1,kuj,False
+232.wav,zoo li noj mov lossis pw tsaug zog lossis nyiam nrhiav kev hlub lossis nrhiav txoj haujlwm,zoo li noj mos lossis pw tsaug zog lossis nyiam nrhiav kev hlub lossis nyiam txoj haujlwm xwb,0.17647058823529413,0.08888888888888889,False,1,zoo,False
+109.wav,nyob tom no raws kuv qab,nyob tom no raws kuj qab,0.16666666666666666,0.041666666666666664,False,1,nyob,False
+338.wav,nws tau muab dab tsi rau koj,nws tau muab dab tshis rau koj,0.14285714285714285,0.07142857142857142,False,1,nws,False
+132.wav,kuv muab cia hauv lub qab rooj,kuv muab cia hau lub qab rooj,0.14285714285714285,0.03333333333333333,False,1,kuv,False
+126.wav,puas muaj chaw muag dej nyob qhov twg,puas muaj chaw muag dej nyob qhov twg thiab,0.125,0.16216216216216217,False,1,puas,False
+280.wav,koj yuav tau tos li peb caug feeb,koj yuag tau tos li peb caug feeb,0.125,0.030303030303030304,False,1,koj,False
+131.wav,koj puas pom yawg hlob nyob qhov twg,koj puas pom yaws hlob nyob qhov twg,0.125,0.027777777777777776,False,1,koj,False
+315.wav,koj puas tau ua haujlwm ntawm no los dua,koj puas tau ua haujlwm ntawm no los dua yixalayees,0.1111111111111111,0.275,False,1,koj,False
+337.wav,tsis yog nws nrog ib tug phooj ywg tuaj,tsis yog nws nrog ib tug phooj yws tuaj,0.1111111111111111,0.02564102564102564,False,1,tsis,False
+348.wav,koj tau nrog tus twg nyob xya hnub dhau los,koj tau nrog tus twg nyob xya hnub dhau los thiab,0.1,0.13953488372093023,False,1,koj,False
+273.wav,nws muaj li nees nkaum tsib rau nees nkaum xya xyoos,nws muaj li nees nkaum tsib rau nees nkaum xya xyoo,0.09090909090909091,0.019230769230769232,False,1,nws,False
+105.wav,koj pab qhia rau kuv saib thaj chaw no nyob qhov twg puas tau,koj pab qhia rau kuv saib thaj chaw no nyob qhov twg puas tau,0.0,0.0,False,1,koj,False
+155.wav,kuv tau ncaim nyab laj teb lub tsib hlis ntuj,kuv tau ncaim nyab laj teb lub tsib hlis ntuj,0.0,0.0,False,1,kuv,False

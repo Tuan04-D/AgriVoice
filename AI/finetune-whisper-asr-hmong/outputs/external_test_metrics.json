@@ -1,0 +1,12 @@
+{
+  "wer": 0.2660030722618103,
+  "cer": 0.1202436164021492,
+  "rtf": 0.012482775375247002,
+  "total_rows": 54,
+  "used_rows": 54,
+  "skipped_missing_audio": 0,
+  "skipped_empty_transcript": 0,
+  "skipped_invalid_audio": 0,
+  "audio_dir": "/workspace/hmong-asr-projects/external-test/hmong_dataset",
+  "transcript_path": "/workspace/hmong-asr-projects/external-test/transcripts_format.xlsx"
+}

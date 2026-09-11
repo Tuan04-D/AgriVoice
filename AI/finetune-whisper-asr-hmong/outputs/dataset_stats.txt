@@ -1,0 +1,2 @@
+Total_Utterances	Total_Duration_Hours	Mean_Duration_Sec	Total_Words	Unique_Words	Mean_Words_Per_Sentence
+36065	48.7009001	4.86131264	445124	8788	12.3422709

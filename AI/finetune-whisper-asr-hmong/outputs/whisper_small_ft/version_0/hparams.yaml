@@ -1,0 +1,4 @@
+lr: 1.0e-05
+model_name: openai/whisper-small
+warmup_steps: 500
+weight_decay: 0.01

@@ -1,0 +1,37 @@
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Large binary artifacts
+*.pdf
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+
+# Datasets and audio
+*.wav
+*.mp3
+*.flac
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# TensorBoard / training logs
+events.out.tfevents.*
+lightning_logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

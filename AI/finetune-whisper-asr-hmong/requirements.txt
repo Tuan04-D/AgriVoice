@@ -1,0 +1,13 @@
+torch
+pytorch-lightning
+transformers
+accelerate
+jiwer
+librosa
+soundfile
+pandas
+scikit-learn
+tensorboard
+numpy
+sounddevice
+openpyxl
