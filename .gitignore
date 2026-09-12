@@ -17,6 +17,7 @@
 *.wav
 *.mp3
 *.flac
+dataset/
 
 # Python
 __pycache__/
@@ -26,9 +27,13 @@ __pycache__/
 venv/
 env/
 
+#Notebook
+notebook/
+
 # TensorBoard / training logs
 events.out.tfevents.*
 lightning_logs/
+outputs/
 
 # OS / editor
 .DS_Store

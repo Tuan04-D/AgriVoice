@@ -1,0 +1,11 @@
+huggingface_hub>=0.30
+pyarrow>=15.0
+pandas>=2.0
+numpy>=1.26
+pillow>=10.0
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+torch>=2.3
+torchvision>=0.20
+open_clip_torch>=2.32
